@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=gpPvGs5PjfI
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+https://github.com/cs160-sp16/prog-01-crunch-time-vishalgoe/issues/1
 
 ## Acknowledgments
 
